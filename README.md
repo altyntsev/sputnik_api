@@ -1,1 +1,3 @@
-# sputnik_api
+sputnik API
+
+[Docs](https://altyntsev.github.io/)
